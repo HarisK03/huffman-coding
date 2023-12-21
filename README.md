@@ -40,4 +40,4 @@ Starting from the root, each bit in the encoded data is read. The traversal foll
 
 Haris Kamal - HarisKamal03@gmail.com
 
-Project Link - https://github.com/HarisK03/chess-ai
+Project Link - https://github.com/HarisK03/huffman-coding
